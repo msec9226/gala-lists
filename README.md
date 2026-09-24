@@ -1,6 +1,6 @@
 # Gala word lists
 
-Public word lists for [Gala](https://github.com/msec9226/gala), a macOS app that helps doctors write
+Public word lists for Gala, a macOS app that helps doctors write
 operation reports, clinic letters and meeting summaries with local AI models. Gala checks a
 transcript's spelling against these lists — a region's medicines, suburbs and towns, and hospitals, the
 generic drug names, and medical device brands and their makers.
